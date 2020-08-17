@@ -1,1 +1,11 @@
 /bin/
+/**/.settings/
+/**/target/
+/**/.classpath
+/**/.DS_Store
+/**/.project
+/**/logs/
+/**/bin/
+/**/.idea/
+/**/.iml
+/**/*.iml
